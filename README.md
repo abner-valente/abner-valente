@@ -44,7 +44,7 @@ class CurrentlyStudying:
 ---
 
 
-> “Dados não falam, mas quando organizados, contam histórias que convencem.”  
-> — *Autor Desconhecido*
+> “Confie em quem faz JOIN direito. Relacionamentos importam!”  
+> — *Eu*
 
 ---
