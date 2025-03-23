@@ -31,17 +31,6 @@ class CurrentlyStudying:
 > [!IMPORTANT]
 **Minhas Ferramentas:**  
 > <div align="center"> <img align="center" alt="Jupyter" height="50" width="50" src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000"/>&nbsp;&nbsp;&nbsp; <img align="center" alt="VsCode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>&nbsp;&nbsp;&nbsp; <img align="center" alt="Python" height="50" width="50" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg"/>&nbsp;&nbsp;&nbsp; <img align="center" alt="MySQL" height="50" width="50" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg"/>&nbsp;&nbsp;&nbsp;<img align="center" alt="postgres" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />&nbsp;&nbsp;&nbsp;<img align="center" alt="sqldeveloper" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"/> <img align="center" alt="oracle" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"/> </div>
-
-
-<div align="right">
-  <a href="mailto:marianamartiyns@gmail.com" target="_blank" rel="external">
-    <img height="30" width="30" src="https://github.com/cszach/cszach/blob/ffd33ed68af4442211146dcc5deb70299683c082/img/icons/gmail.png" />
-  </a>
-  <a href="https://www.linkedin.com/in/profile-mariana-martins" target="_blank" rel="external">
-    <img height="30" width="30" src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/cd8986f5a2be2a96df9fabcc13a4129f32c79dbe/Icons-logos/linkedin-circle.png" />
-  </a>
-</div>
-
 ---
 
 ## 🧭 Como me encontrar
