@@ -10,7 +10,7 @@ class AboutMe:
         self.bio = (
             '''Curioso e motivado a solucionar problemas que envolvem dados e suas peripécias. Com experiência
                em estruturação de banco, manuntenção de bases, scraping de dados com Py, métricas em BI, etc.
-               Buscando conhecimentos gradualmente para ser um exímio Engenheiro de Dados'''
+               Buscando conhecimentos gradualmente com foco em Engenharia de Dados'''
         )
 
 class CurrentlyStudying:
