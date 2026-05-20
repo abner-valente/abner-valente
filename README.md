@@ -3,23 +3,25 @@
 ```py
 class AboutMe:
     def __init__(self):
-        self.name = "Luiz Abner"
+        self.name = "Luiz Abner Jesus Lopes Valente"
         self.degree = "Ciência de Dados"
-        self.expected_graduation = 2025.2
-        self.location = "Rio de Janeiro"
+        self.expected_graduation = 2026.2
+        self.location = "Campo Grande - MS"
+        self.hometown = "Rio de Janeiro - RJ"
         self.bio = (
             '''Curioso e motivado a solucionar problemas que envolvem dados e suas peripécias. Com experiência
-               em estruturação de banco, manuntenção de bases, scraping de dados com Py, métricas em BI, etc.
-               Buscando conhecimentos gradualmente com foco em Engenharia de Dados'''
+               em estruturação de banco, manuntenção de bases, scraping de dados com Py, métricas em BI,
+               contrução e estruturação de pipelines ETL e ELT, API REST e afins.
+               Buscando conhecimentos gradualmente com foco em Engenharia/Arquitetura de Dados'''
         )
 
 class CurrentlyStudying:
     def __init__(self):
         self.skills = {
-            'technical': ['Python', 'SQL', 'PowerBI', 'Excel'],
+            'technical': ['Python', 'SQL', 'PowerBI', 'Linux', FastAPI],
             'languages': ['Portuguese', 'English'],
         }
-        self.focus = "Análise de dados e Sraping com Python"
+        self.focus = "Engenharia de Dados"
         self.interests = "Big Data, Conceitos de Engenharia e Arquitura de Dados, Python para Dados, Cloud"
 ```
 <div>
