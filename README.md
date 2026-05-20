@@ -45,8 +45,10 @@ class CurrentlyStudying:
 
 ---
 
-
 > “Confie em quem faz JOIN direito. Relacionamentos importam!”  
 > — *Eu*
 
+---
+> “Sem Backup, só Jesus Salva. A main()”  
+> — *UseTI*
 ---
